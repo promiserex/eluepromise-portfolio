@@ -1,7 +1,7 @@
 -- Select everything from the table
 SELECT * FROM affordable_housing.affordable_housing;
 
--- Rename column that has encoding issue (ï»¿X → X)
+-- Rename column that has encoding issue (ï»¿X - X)
 ALTER TABLE affordable_housing
 RENAME COLUMN ï»¿X TO X;
 
@@ -28,7 +28,7 @@ FROM affordable_housing
 ) dup
 WHERE duplicates > 1;
  
-/* NO DUPLICATES FOUND */ 
+-- NO DUPLICATES FOUND 
 
 -- Add a unique ID column to the table
 ALTER TABLE affordable_housing
