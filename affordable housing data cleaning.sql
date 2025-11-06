@@ -1,14 +1,30 @@
+/* #Data Cleaning Process
+
+The raw dataset was cleaned and prepared in MySQL before analysis. The following steps were taken to ensure accuracy and consistency:
+
+1.Imported the dataset using the Table Data Import Wizard.
+
+2.Inspected the data structure and column types using SELECT queries.
+
+3.Checked for duplicate records to avoid double counting using window functions.
+
+4.Checked for missing or NULL values and replaced or removed them where necessary.
+
+5.Inspected if text formatting was needed, using functions like TRIM(), UPPER(), LOWER(), and REPLACE().
+
+*/
+
 -- Select everything from the table
 SELECT * FROM affordable_housing.affordable_housing;
 
--- Rename column that has encoding issue (ï»¿X - X)
+-- Rename column that has encoding issue (ï»¿X to X)
 ALTER TABLE affordable_housing
 RENAME COLUMN ï»¿X TO X;
 
 -- Check the table again after renaming
 SELECT * FROM affordable_housing.affordable_housing;
 
--- Check for duplicates by counting rows with same values in key columns
+-- Check for duplicates by counting rows with same values in key columns using windows function
 SELECT count(*) 
 FROM(
 SELECT  ROW_NUMBER() 
