@@ -13,29 +13,6 @@ This project analyzes Washington D.C.’s affordable housing data to uncover:
 
 ---
 
-##  Tools and Technologies
-
-* **MySQL** – Data cleaning and preparation
-* **Excel / CSV** – Raw data source
-* **Power BI** – Dashboard creation and data visualization
-* **GitHub** – Version control and project documentation
-
----
-
-## Data Cleaning Process
-
-The dataset was cleaned and prepared in **MySQL** before analysis.
-Steps included:
-
-1. Imported the dataset using the Table Data Import Wizard.
-2. Inspected table structure and column types using `SELECT` queries.
-3. Checked for duplicate records using window functions.
-4. Checked and handled missing or NULL values.
-5. Inspected text formats using `TRIM()`, `UPPER()`, and `REPLACE()` functions.
-6. Validated data accuracy before visualizing in Power BI.
-
----
-
 ##  Key Metrics and Analytical Focus
 
 **1. Leading Agencies in Affordable Housing Delivery**
@@ -82,8 +59,26 @@ Agency performance is led by **DCHFA–DHCD (7,523 units)** and **DHCD (7,505 un
 
 ---
 
-##  Dashboard Preview
+##  Tools and Technologies
 
+* **MySQL** – Data cleaning and preparation
+* **Excel / CSV** – Raw data source
+* **Power BI** – Dashboard creation and data visualization
+* **GitHub** – Version control and project documentation
+
+---
+
+## Data Cleaning Process
+
+The dataset was cleaned and prepared in **MySQL** before analysis.
+Steps included:
+
+1. Imported the dataset using the Table Data Import Wizard.
+2. Inspected table structure and column types using `SELECT` queries.
+3. Checked for duplicate records using window functions.
+4. Checked and handled missing or NULL values.
+5. Inspected text formats using `TRIM()`, `UPPER()`, and `REPLACE()` functions.
+6. Validated data accuracy before visualizing in Power BI.
 
 
 ---
@@ -95,5 +90,3 @@ Agency performance is led by **DCHFA–DHCD (7,523 units)** and **DHCD (7,505 un
 * `powerbi/` → Power BI `.pbix` file
 * `images/` → Screenshots of dashboard visuals
 * `README.md` → Project summary and documentation
-
----
