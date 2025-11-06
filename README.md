@@ -37,7 +37,7 @@ Most housing is concentrated in **Ward 8**, followed by **Wards 6 and 7**, while
 
 The majority of housing units serve **low- to moderate-income families (31–60% AMI)**, showing strong focus on working-class residents, but fewer projects target deeply affordable units (0–30% AMI).
 
-Agency performance is led by **DCHFA–DHCD (7,523 units)** and **DHCD (7,505 units)**, showing that most delivery comes from a few major players.
+Agency performance is led by **DCHFA–DHCD (7,523 units)** and **DHCD (7,505 units)**, showing that most delivery comes from a few major players. <br>
 
 <img width="998" height="520" alt="main dashboard" src="https://github.com/user-attachments/assets/82ab3885-14ea-4aa4-80d3-b3a8251293d4" />
 
