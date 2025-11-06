@@ -13,7 +13,7 @@ This project analyzes Washington D.C.’s affordable housing data to uncover:
 
 ---
 
-## ⚙️ Tools and Technologies
+##  Tools and Technologies
 
 * **MySQL** – Data cleaning and preparation
 * **Excel / CSV** – Raw data source
@@ -82,9 +82,9 @@ Agency performance is led by **DCHFA–DHCD (7,523 units)** and **DHCD (7,505 un
 
 ---
 
-##  Dashboard Access
+##  Dashboard Preview
 
-**Power BI Dashboard Link:** [View Interactive Dashboard](#) *(Add your Power BI or portfolio link here)*
+
 
 ---
 
