@@ -41,16 +41,16 @@ Agency performance is led by **DCHFA–DHCD (7,523 units)** and **DHCD (7,505 un
 ---
 ## Key Insights
 
-1. **Leading Agencies**
+1. **Leading Agencies** <br>
 DCHFA–DHCD and DHCD lead in affordable housing delivery, contributing most of the city’s total units. DMPED and OP follow with smaller shares, showing room for stronger collaboration.
 
-2. **Housing Distribution Across Wards**
+3. **Housing Distribution Across Wards**
 Ward 8 has the highest concentration of affordable housing (10,338 units), followed by Wards 6 and 7. Ward 3 shows the least activity, highlighting uneven distribution across the city.
 
-3. **Project Progress**
+4. **Project Progress**
 Out of 37,519 planned units, 58% are completed, 31% in the pipeline, and 11% under construction — reflecting steady but ongoing development.
 
-4. **Affordability Levels (AMI)**
+5. **Affordability Levels (AMI)**
 Most units serve households earning 31–60% of AMI, while support for 0–30% AMI groups remains limited — showing a gap in deeply affordable housing
 
 ---
