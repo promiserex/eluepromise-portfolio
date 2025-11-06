@@ -1,0 +1,101 @@
+
+# Affordable Housing Analysis – Washington D.C.
+
+## Project Overview
+
+Affordable housing remains one of the biggest challenges in Washington D.C. Despite many government programs, there has been little visibility into which agencies deliver the most housing, how projects are spread across wards, and if housing efforts truly meet affordability targets (AMI groups).
+This project analyzes Washington D.C.’s affordable housing data to uncover:
+
+* Where most housing developments are located
+* Which agencies drive the highest delivery
+* How progress is distributed across project stages
+* Whether housing supports the right income levels
+
+---
+
+## ⚙️ Tools and Technologies
+
+* **MySQL** – Data cleaning and preparation
+* **Excel / CSV** – Raw data source
+* **Power BI** – Dashboard creation and data visualization
+* **GitHub** – Version control and project documentation
+
+---
+
+## Data Cleaning Process
+
+The dataset was cleaned and prepared in **MySQL** before analysis.
+Steps included:
+
+1. Imported the dataset using the Table Data Import Wizard.
+2. Inspected table structure and column types using `SELECT` queries.
+3. Checked for duplicate records using window functions.
+4. Checked and handled missing or NULL values.
+5. Inspected text formats using `TRIM()`, `UPPER()`, and `REPLACE()` functions.
+6. Validated data accuracy before visualizing in Power BI.
+
+---
+
+##  Key Metrics and Analytical Focus
+
+**1. Leading Agencies in Affordable Housing Delivery**
+Identified which government agencies are driving the largest share of affordable housing projects and their total contribution to the city’s housing supply.
+
+**2. Affordable Housing Distribution Across Wards**
+Analyzed how affordable housing projects are spread across Washington D.C.’s wards, revealing major concentration zones and areas with low development.
+
+**3. Overall Development Progress**
+Measured project status — completed, under construction, and pipeline — to understand overall delivery performance and progress.
+
+**4. Distribution by Income Level (AMI)**
+Examined how affordable housing units are distributed across different income groups (0–30%, 31–50%, 51–60%, and 61–80% AMI).
+
+---
+
+## Executive Summary
+
+The analysis shows steady progress in affordable housing delivery, with over **60% of projects completed** since 2015.
+Most housing is concentrated in **Ward 8**, followed by **Wards 6 and 7**, while **Ward 3** has the least activity.
+
+The majority of housing units serve **low- to moderate-income families (31–60% AMI)**, showing strong focus on working-class residents, but fewer projects target deeply affordable units (0–30% AMI).
+
+Agency performance is led by **DCHFA–DHCD (7,523 units)** and **DHCD (7,505 units)**, showing that most delivery comes from a few major players.
+
+---
+
+##  Key Recommendations
+
+1. **Increase Collaboration Across Agencies**
+   Encourage partnerships between smaller agencies (e.g., DMPED, OP) and larger ones to expand housing delivery capacity.
+
+2. **Balance Development Across Wards**
+   Use zoning and land incentives to encourage more projects in low-development areas like Ward 3.
+
+3. **Accelerate Pipeline Projects**
+   Simplify permits and approvals to move pipeline projects to completion faster.
+
+4. **Support Deeply Affordable Units (0–30% AMI)**
+   Offer more funding and incentives for developers to serve the lowest-income households.
+
+5. **Use Data to Guide Policy**
+   Continue using housing data to track performance, guide investments, and target neighborhoods most in need.
+
+---
+
+##  Dashboard Access
+
+**Power BI Dashboard Link:** [View Interactive Dashboard](#) *(Add your Power BI or portfolio link here)*
+
+---
+
+##  Repository Contents
+
+* `data/` → Raw and cleaned datasets (Excel/CSV)
+* `sql/` → MySQL cleaning and transformation queries
+* `powerbi/` → Power BI `.pbix` file
+* `images/` → Screenshots of dashboard visuals
+* `README.md` → Project summary and documentation
+
+---
+
+Would you like me to tailor a **short version (under 150 words)** for your GitHub repository description too — the one that shows at the top of your repo page before the README? That short version helps make the repo look even more professional.
