@@ -1,4 +1,4 @@
-/* #Data Cleaning Process
+/* Data Cleaning Process
 
 The raw dataset was cleaned and prepared in MySQL before analysis. The following steps were taken to ensure accuracy and consistency:
 
