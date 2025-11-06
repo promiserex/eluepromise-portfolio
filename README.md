@@ -39,7 +39,7 @@ The majority of housing units serve **low- to moderate-income families (31–60%
 
 Agency performance is led by **DCHFA–DHCD (7,523 units)** and **DHCD (7,505 units)**, showing that most delivery comes from a few major players.
 
-<img width="1003" height="566" alt="main dashboard" src="https://github.com/user-attachments/assets/82ab3885-14ea-4aa4-80d3-b3a8251293d4" />
+<img width="998" height="520" alt="main dashboard" src="https://github.com/user-attachments/assets/82ab3885-14ea-4aa4-80d3-b3a8251293d4" />
 
 ---
 ## Key Insights
