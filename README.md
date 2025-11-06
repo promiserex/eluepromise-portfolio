@@ -15,6 +15,7 @@ This project analyzes Washington D.C.’s affordable housing data to uncover:
 
 ##  Key Metrics and Analytical Focus
 
+
 **1. Leading Agencies in Affordable Housing Delivery** <br>
 Identified which government agencies are driving the largest share of affordable housing projects and their total contribution to the city’s housing supply.
 
@@ -37,6 +38,8 @@ Most housing is concentrated in **Ward 8**, followed by **Wards 6 and 7**, while
 The majority of housing units serve **low- to moderate-income families (31–60% AMI)**, showing strong focus on working-class residents, but fewer projects target deeply affordable units (0–30% AMI).
 
 Agency performance is led by **DCHFA–DHCD (7,523 units)** and **DHCD (7,505 units)**, showing that most delivery comes from a few major players.
+
+<img width="1003" height="566" alt="main dashboard" src="https://github.com/user-attachments/assets/82ab3885-14ea-4aa4-80d3-b3a8251293d4" />
 
 ---
 ## Key Insights
