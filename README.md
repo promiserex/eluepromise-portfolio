@@ -20,25 +20,29 @@ This project analyzes Washington D.C.’s affordable housing data to uncover:
 Identified which government agencies are driving the largest share of affordable housing projects and their total contribution to the city’s housing supply.
 <br>
 <br>
-<img width="984" height="557" alt="main 1" src="https://github.com/user-attachments/assets/135f829c-77a1-4eb3-8c5a-2a121e777038" />
+<img width="850" height="500" alt="main 1" src="https://github.com/user-attachments/assets/135f829c-77a1-4eb3-8c5a-2a121e777038" />
+<br>
+<br>
 **2. Affordable Housing Distribution Across Wards** <br>
 Analyzed how affordable housing projects are spread across Washington D.C.’s wards, revealing major concentration zones and areas with low development.
 <br>
 <br>
 <img width="950" height="500" alt="main 2" src="https://github.com/user-attachments/assets/27145260-6053-4f6a-bb20-97a0db4296db" />
+<br>
+<br>
 **3. Overall Development Progress** <br>
-
-
 Measured project status — completed, under construction, and pipeline — to understand overall delivery performance and progress.
 <br> 
 <br>
-<img width="950" height="515" alt="main 3" src="https://github.com/user-attachments/assets/a9b9747e-e635-460e-9df1-8b5b4ecb5fd8" />
+<img width="850" height="515" alt="main 3" src="https://github.com/user-attachments/assets/a9b9747e-e635-460e-9df1-8b5b4ecb5fd8" />
+<br>
+<br>
 
 **4. Distribution by Income Level (AMI)** <br>
 Examined how affordable housing units are distributed across different income groups (0–30%, 31–50%, 51–60%, and 61–80% AMI).
 <br>
 <br>
-<img width="950" height="500" alt="main 4" src="https://github.com/user-attachments/assets/c70b04fa-f0a0-4f88-9b2c-485bfcb39b34" />
+<img width="850" height="450" alt="main 4" src="https://github.com/user-attachments/assets/c70b04fa-f0a0-4f88-9b2c-485bfcb39b34" />
 
 ---
 
