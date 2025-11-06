@@ -15,16 +15,16 @@ This project analyzes Washington D.C.’s affordable housing data to uncover:
 
 ##  Key Metrics and Analytical Focus
 
-**1. Leading Agencies in Affordable Housing Delivery**
+**1. Leading Agencies in Affordable Housing Delivery** <br>
 Identified which government agencies are driving the largest share of affordable housing projects and their total contribution to the city’s housing supply.
 
-**2. Affordable Housing Distribution Across Wards**
+**2. Affordable Housing Distribution Across Wards** <br>
 Analyzed how affordable housing projects are spread across Washington D.C.’s wards, revealing major concentration zones and areas with low development.
 
-**3. Overall Development Progress**
+**3. Overall Development Progress** <br>
 Measured project status — completed, under construction, and pipeline — to understand overall delivery performance and progress.
 
-**4. Distribution by Income Level (AMI)**
+**4. Distribution by Income Level (AMI)** <br>
 Examined how affordable housing units are distributed across different income groups (0–30%, 31–50%, 51–60%, and 61–80% AMI).
 
 ---
@@ -44,31 +44,31 @@ Agency performance is led by **DCHFA–DHCD (7,523 units)** and **DHCD (7,505 un
 1. **Leading Agencies** <br>
 DCHFA–DHCD and DHCD lead in affordable housing delivery, contributing most of the city’s total units. DMPED and OP follow with smaller shares, showing room for stronger collaboration.
 
-3. **Housing Distribution Across Wards**
+3. **Housing Distribution Across Wards** <br>
 Ward 8 has the highest concentration of affordable housing (10,338 units), followed by Wards 6 and 7. Ward 3 shows the least activity, highlighting uneven distribution across the city.
 
-4. **Project Progress**
+4. **Project Progress** <br>
 Out of 37,519 planned units, 58% are completed, 31% in the pipeline, and 11% under construction — reflecting steady but ongoing development.
 
-5. **Affordability Levels (AMI)**
+5. **Affordability Levels (AMI)** <br>
 Most units serve households earning 31–60% of AMI, while support for 0–30% AMI groups remains limited — showing a gap in deeply affordable housing
 
 ---
 ##  Key Recommendations
 
-1. **Increase Collaboration Across Agencies**
+1. **Increase Collaboration Across Agencies** <br>
    Encourage partnerships between smaller agencies (e.g., DMPED, OP) and larger ones to expand housing delivery capacity.
 
-2. **Balance Development Across Wards**
+2. **Balance Development Across Wards** <br>
    Use zoning and land incentives to encourage more projects in low-development areas like Ward 3.
 
-3. **Accelerate Pipeline Projects**
+3. **Accelerate Pipeline Projects** <br>
    Simplify permits and approvals to move pipeline projects to completion faster.
 
-4. **Support Deeply Affordable Units (0–30% AMI)**
+4. **Support Deeply Affordable Units (0–30% AMI)** <br>
    Offer more funding and incentives for developers to serve the lowest-income households.
 
-5. **Use Data to Guide Policy**
+5. **Use Data to Guide Policy** <br>
    Continue using housing data to track performance, guide investments, and target neighborhoods most in need.
 
 ---
