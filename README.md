@@ -97,5 +97,3 @@ Agency performance is led by **DCHFA–DHCD (7,523 units)** and **DHCD (7,505 un
 * `README.md` → Project summary and documentation
 
 ---
-
-Would you like me to tailor a **short version (under 150 words)** for your GitHub repository description too — the one that shows at the top of your repo page before the README? That short version helps make the repo look even more professional.
