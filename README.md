@@ -125,8 +125,8 @@ Steps included:
 
 ##  Repository Contents
 
-* [affordable housing data cleaning.sql ](https://github.com/promiserex/eluepromise-portfolio/blob/main/affordable%20housing%20data%20cleaning.sql)→ Raw and cleaned datasets (Excel/CSV)
-* `sql/` → MySQL cleaning and transformation queries
+* → Raw and cleaned datasets (Excel/CSV)
+* [affordable housing data cleaning.sql ](https://github.com/promiserex/eluepromise-portfolio/blob/main/affordable%20housing%20data%20cleaning.sql) → MySQL cleaning and transformation queries
 * `powerbi/` → Power BI `.pbix` file
 * `images/` → Screenshots of dashboard visuals
 * `README.md` → Project summary and documentation
