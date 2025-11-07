@@ -125,7 +125,7 @@ Steps included:
 
 ##  Repository Contents
 
-* `data/` → Raw and cleaned datasets (Excel/CSV)
+* affordable housing data cleaning.sql → Raw and cleaned datasets (Excel/CSV)
 * `sql/` → MySQL cleaning and transformation queries
 * `powerbi/` → Power BI `.pbix` file
 * `images/` → Screenshots of dashboard visuals
