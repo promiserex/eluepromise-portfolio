@@ -126,4 +126,4 @@ Steps included:
 
 * [ Raw and cleaned datasets](https://github.com/promiserex/eluepromise-portfolio/tree/main/data) → Raw and cleaned datasets (Excel/CSV)
 * [affordable housing data cleaning.sql ](https://github.com/promiserex/eluepromise-portfolio/blob/main/affordable%20housing%20data%20cleaning.sql) → MySQL cleaning and transformation queries
-* [Affordable Housing Dashboard](https://github.com/promiserex/eluepromise-portfolio/blob/main/Affordable%20Housing%20Dashboard.pbix) → Power BI `.pbix` file
+* [Affordable Housing Dashboard](https://github.com/promiserex/eluepromise-portfolio/blob/main/Affordable%20Housing%20Dashboard.pbix) → Power BI 
