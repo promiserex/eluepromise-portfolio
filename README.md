@@ -104,7 +104,6 @@ Most units serve households earning 31–60% of AMI, while support for 0–30% A
 * **MySQL** – Data cleaning and preparation
 * **Excel / CSV** – Raw data source
 * **Power BI** – Dashboard creation and data visualization
-* **GitHub** – Version control and project documentation
 
 ---
 
@@ -125,7 +124,7 @@ Steps included:
 
 ##  Repository Contents
 
-* → Raw and cleaned datasets (Excel/CSV)
+* https://github.com/promiserex/eluepromise-portfolio/tree/main/data → Raw and cleaned datasets (Excel/CSV)
 * [affordable housing data cleaning.sql ](https://github.com/promiserex/eluepromise-portfolio/blob/main/affordable%20housing%20data%20cleaning.sql) → MySQL cleaning and transformation queries
 * `powerbi/` → Power BI `.pbix` file
 * `images/` → Screenshots of dashboard visuals
