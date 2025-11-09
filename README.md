@@ -13,7 +13,7 @@ This project analyzes Washington D.C.’s affordable housing data to uncover:
 
 ---
 
-##  Key Metrics and Analytical Focus
+##  Insights and recommendations are provided on the following key areas:
 
 
 **1. Leading Agencies in Affordable Housing Delivery** <br>
