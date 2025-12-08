@@ -34,7 +34,7 @@ Examined how affordable housing units are distributed across different income gr
 
 ## Executive Summary
 
-The analysis shows steady progress in affordable housing delivery, with over **60% of projects completed** since 2015.
+Affordable housing delivery is progressing steadily, with over **60% of projects completed** since 2015.
 Most housing is concentrated in **Ward 8**, followed by **Wards 6 and 7**, while **Ward 3** has the least activity.
 
 The majority of housing units serve **low- to moderate-income families (31–60% AMI)**, showing strong focus on working-class residents, but fewer projects target deeply affordable units (0–30% AMI).
