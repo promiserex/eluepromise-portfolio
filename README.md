@@ -57,7 +57,7 @@ DCHFA–DHCD and DHCD lead in affordable housing delivery, contributing most of 
 <br>
 
 **2. Housing Distribution Across Wards** <br>
-Ward 8 records the highest concentration of affordable housing with 10,338 units, followed by Wards 6 and 7, while Ward 3 shows the lowest level of activity, indicating an uneven distribution across the city.
+Ward 8 records the highest concentration of affordable housing with 10,338 units, followed by Wards 6 and 7, while Ward 3 shows the lowest level of activity, underscoring the uneven distribution across the city.
 
 <img width="850" height="450" alt="main 2" src="https://github.com/user-attachments/assets/27145260-6053-4f6a-bb20-97a0db4296db" />
 <br>
@@ -66,7 +66,7 @@ Ward 8 records the highest concentration of affordable housing with 10,338 units
 <br>
 
 **3. Project Progress** <br>
-Out of 37,519 planned units, 58% are completed, 31% in the pipeline, and 11% under construction — reflecting steady but ongoing development.
+Out of 37,519 planned units, 58% are completed, 31% are in the pipeline, and 11% are under construction, with development advancing across phases.
 
 <img width="850" height="515" alt="main 3" src="https://github.com/user-attachments/assets/a9b9747e-e635-460e-9df1-8b5b4ecb5fd8" />
 <br>
@@ -75,7 +75,7 @@ Out of 37,519 planned units, 58% are completed, 31% in the pipeline, and 11% und
 <br>
 
  **4. Affordability Levels (AMI)** <br>
-Most units serve households earning 31–60% of AMI, while support for 0–30% AMI groups remains limited — showing a gap in deeply affordable housing
+Most units serve households earning 31–60% of AMI, while support for 0–30% AMI groups remains limited, leaving the lowest-income tier less served.
 
 <img width="850" height="450" alt="main 4" src="https://github.com/user-attachments/assets/c70b04fa-f0a0-4f88-9b2c-485bfcb39b34" />
 
