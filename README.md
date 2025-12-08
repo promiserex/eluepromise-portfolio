@@ -1,7 +1,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Insights and recommendations are provided on the following key areas](#insights-and-recommendations-are-provided-on-the-following-key-areas)
+- [Insights and Recommendations](#insights-and-recommendations-are-provided-on-the-following-key-areas)
 - [Executive Summary](#executive-summary)
 - [Key Insights](#key-insights)
 - [Recommendations](#key-recommendations)
