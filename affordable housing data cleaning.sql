@@ -1,16 +1,16 @@
-/* Data Cleaning Process
-
-The raw dataset was cleaned and prepared in MySQL before analysis. The following steps were taken to ensure accuracy and consistency:
-
-1.Imported the dataset using the Table Data Import Wizard.
-
-2.Inspected the data structure and column types using SELECT queries.
-
-3.Checked for duplicate records to avoid double counting using window functions.
-
-4.Checked for missing or NULL values and replaced or removed them where necessary.
-
-5.Inspected if text formatting was needed, using functions like TRIM(), UPPER(), LOWER(), and REPLACE().
+/*
+1.Imported and inspected the raw data structure.
+2.Fixed encoding issues by renaming a corrupted column (ï»¿X → X).
+3.Checked for duplicate records using window functions — no duplicates found.
+4.Added a temporary ID column to track records during cleaning, then removed it.
+5.Identified and reviewed missing values, especially in AGENCY_CALCULATED.
+6.Standardized text fields, including:
+ -Replacing multiple spaces with commas
+ -Cleaning patterns like and → &
+ -Correcting inconsistent text formats (21-20Phase 1 → 21-20)
+7.Extracted date and time from GIS_LAST_MOD_DTTM into separate DATE and TIME columns.
+8.Verified unique identifiers such as CASE_ID.
+9.Performed final schema checks and reviewed the fully cleaned table.
 
 */
 
