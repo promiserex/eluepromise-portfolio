@@ -120,16 +120,20 @@ Most units serve households earning 31–60% of AMI, while support for 0–30% A
 
 ## Data Cleaning Process
 
-The dataset was cleaned and prepared in **MySQL** before analysis.
-Steps included:
+The dataset was cleaned in **MySQL** to ensure accuracy, consistency, and readiness for analysis. The following steps were performed:
 
-1. Imported the dataset using the Table Data Import Wizard.
-2. Inspected table structure and column types using `SELECT` queries.
-3. Checked for duplicate records using window functions.
-4. Checked and handled missing or NULL values.
-5. Inspected text formats using `TRIM()`, `UPPER()`, and `REPLACE()` functions.
-6. Validated data accuracy before visualizing in Power BI.
-
+- **Imported and inspected** the raw dataset to understand structure and column types.
+- **Resolved encoding issues** by renaming the corrupted column (`ï»¿X` → `X`).
+- **Checked for duplicate records** using window functions; no duplicates were found.
+- Added a temporary **ID column** to support the cleaning process, then removed it after use.
+- **Identified and reviewed missing values**, especially in the `AGENCY_CALCULATED` field.
+- **Standardized text formatting**, including:
+  - Replacing multiple spaces with commas  
+  - Cleaning patterns like `and ` → `&`  
+  - Correcting inconsistent text such as `21-20Phase 1` → `21-20`
+- **Extracted and reformatted date and time** components from `GIS_LAST_MOD_DTTM` into separate `DATE` (`Last_Mod_Date`) and `TIME` (`Last_Mod_Dttm`) columns.
+- Verified **unique identifiers** such as `CASE_ID` after cleaning.
+- Conducted **final quality checks**, including reviewing the full table and confirming schema updates with `DESCRIBE`.
 
 ---
 
