@@ -1,12 +1,13 @@
 ## Table of Contents
--[Project Overview](#project-overview)
--[Insights and recommendations are provided on the following key areas](#insights-and-recommendations-are-provided-on-the-following-key-areas)
--[Executive Summary](#executive-summary)
--[Key Insights](#key-insights)
--[Recommendations](#recommendations)
--[Tools and Technologies](#tools-and-technologies)
--[Data Cleaning Process](#data-cleaning-process)
--[Repository Contents](#repository-contents)
+
+- [Project Overview](#project-overview)
+- [Insights and recommendations are provided on the following key areas](#insights-and-recommendations-are-provided-on-the-following-key-areas)
+- [Executive Summary](#executive-summary)
+- [Key Insights](#key-insights)
+- [Recommendations](#key-recommendations)
+- [Tools and Technologies](#tools-and-technologies)
+- [Data Cleaning Process](#data-cleaning-process)
+- [Repository Contents](#repository-contents)
 
 
 # Affordable Housing Analysis – Washington D.C.
