@@ -1,4 +1,5 @@
 /*
+DATA CLEANING PROCESS
 1.Imported and inspected the raw data structure.
 2.Fixed encoding issues by renaming a corrupted column (ï»¿X → X).
 3.Checked for duplicate records using window functions — no duplicates found.
