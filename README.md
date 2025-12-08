@@ -57,7 +57,7 @@ DCHFA–DHCD and DHCD lead in affordable housing delivery, contributing most of 
 <br>
 
 **2. Housing Distribution Across Wards** <br>
-Ward 8 has the highest concentration of affordable housing (10,338 units), followed by Wards 6 and 7. Ward 3 shows the least activity, highlighting uneven distribution across the city.
+Ward 8 records the highest concentration of affordable housing with 10,338 units, followed by Wards 6 and 7, while Ward 3 shows the lowest level of activity, indicating an uneven distribution across the city.
 
 <img width="850" height="450" alt="main 2" src="https://github.com/user-attachments/assets/27145260-6053-4f6a-bb20-97a0db4296db" />
 <br>
